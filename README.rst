@@ -24,7 +24,6 @@ Usage
 
 .. code-block:: python
 
-    >>>
     >>> os.environ['FOO'] = 'bar'
     >>> s = ShellWords(parse_env=True)
     >>> s.parse("./foo $FOO")
@@ -35,7 +34,6 @@ Usage
     >>> s = ShellWords(parse_backtick=True)
     >>> s.parse("./foo `echo $SHELL`")
     [u'./foo', u'/bin/bash']
-    >>>
 
 
 Thanks
