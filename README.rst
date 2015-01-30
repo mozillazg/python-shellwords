@@ -1,7 +1,7 @@
 python-shellwords
 ==================
 
-|Build| |Coverage| |PyPI version| |PyPI downloads| |Python versions|
+|Build| |Coverage| |PyPI version|
 
 Parse line as shell words.
 
