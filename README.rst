@@ -17,9 +17,12 @@ Usage
 
 .. code-block:: python
 
+    >>> from shellwords import ShellWords
     >>> s = ShellWords()
     >>> s.parse("./foo --bar=baz")
     [u'./foo', u'--bar=baz']
+    >>> s.parse('./foo --bar=baz foobar')
+    [u'./foo', u'--bar=baz', u'foobar']
 
 
 .. code-block:: python
