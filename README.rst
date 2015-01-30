@@ -1,7 +1,7 @@
 python-shellwords
 ==================
 
-|Build| |Coverage| |Pypi version| |Pypi downloads| |Python 3|
+|Build| |Coverage| |PyPI version| |PyPI downloads| |Python versions|
 
 Parse line as shell words.
 
@@ -48,9 +48,9 @@ __ https://github.com/mattn/go-shellwords
    :target: https://travis-ci.org/mozillazg/python-shellwords
 .. |Coverage| image:: https://coveralls.io/repos/mozillazg/python-shellwords/badge.png?branch=master
    :target: https://coveralls.io/r/mozillazg/python-shellwords
-.. |PyPI version| image:: https://pypip.in/v/pyshellwords/badge.png
-   :target: https://crate.io/packages/shellwords
-.. |PyPI downloads| image:: https://pypip.in/d/pyshellwords/badge.png
-   :target: https://crate.io/packages/shellwords
-.. |Python 3| image:: https://caniusepython3.com/project/pyshellwords.svg
-   :target: https://caniusepython3.com/project/shellwords
+.. |PyPI version| image:: https://pypip.in/version/shellwords/badge.png
+   :target: https://pypi.python.org/pypi/shellwords
+.. |PyPI downloads| image:: https://pypip.in/download/shellwords/badge.png
+   :target: https://pypi.python.org/pypi/shellwords
+.. |Python versions| image:: https://pypip.in/py_versions/shellwords/badge.svg
+   :target: https://pypi.python.org/pypi/shellwords
